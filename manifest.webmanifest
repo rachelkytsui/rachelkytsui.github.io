@@ -1,0 +1,18 @@
+{
+  "name": "Rachel K.Y. Tsui",
+  "short_name": "Rachel K.Y. Tsui",
+  "lang": "en-us",
+  "theme_color": "#afa9f5",
+  "background_color": "#afa9f5",
+  "icons": [{
+    "src": "/media/icon_hu3eb99e71df139e91bc2d45017a9272e6_43250_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu3eb99e71df139e91bc2d45017a9272e6_43250_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

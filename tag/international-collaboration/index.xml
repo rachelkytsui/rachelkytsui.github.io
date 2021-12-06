@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>International collaboration | Rachel K.Y. Tsui</title>
+    <link>https://rachelkytsui.github.io/tag/international-collaboration/</link>
+      <atom:link href="https://rachelkytsui.github.io/tag/international-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>International collaboration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rachel K.Y. Tsui 2021</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rachelkytsui.github.io/media/icon_hu3eb99e71df139e91bc2d45017a9272e6_43250_512x512_fill_lanczos_center_3.png</url>
+      <title>International collaboration</title>
+      <link>https://rachelkytsui.github.io/tag/international-collaboration/</link>
+    </image>
+    
+    <item>
+      <title>JEWEL project</title>
+      <link>https://rachelkytsui.github.io/project/jewel-project/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/project/jewel-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilingual Families Project</title>
+      <link>https://rachelkytsui.github.io/project/bilingualfamilies-project/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/project/bilingualfamilies-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilingualism | Rachel K.Y. Tsui</title>
+    <link>https://rachelkytsui.github.io/tag/bilingualism/</link>
+      <atom:link href="https://rachelkytsui.github.io/tag/bilingualism/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bilingualism</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rachel K.Y. Tsui 2021</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rachelkytsui.github.io/media/icon_hu3eb99e71df139e91bc2d45017a9272e6_43250_512x512_fill_lanczos_center_3.png</url>
+      <title>Bilingualism</title>
+      <link>https://rachelkytsui.github.io/tag/bilingualism/</link>
+    </image>
+    
+    <item>
+      <title>The effect of Language switching on bilingual toddlers&#39; word learning</title>
+      <link>https://rachelkytsui.github.io/project/tabletswitch-project/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/project/tabletswitch-project/</guid>
+      <description>&lt;p&gt;In this experiment, we are investigating bilingual toddlers’ learning of cross-language synonyms (i.e., translation equivalents) in immediate translated sentences versus single language sentences. Bilingual toddlers’ word learning will be assessed with an online asynchronous experiment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How open science can benefit bilingualism research: A lesson in six tales</title>
+      <link>https://rachelkytsui.github.io/publication/preprint-openscience/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/publication/preprint-openscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are translation equivalents special? Evidence from simulations and empirical data from bilingual infants</title>
+      <link>https://rachelkytsui.github.io/publication/preprint-te/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/publication/preprint-te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognate advantage in bilingual infants</title>
+      <link>https://rachelkytsui.github.io/project/cogvocab-project/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/project/cogvocab-project/</guid>
+      <description>&lt;p&gt;Bilingual infants grow up with the unique experience of needing to learn two words for most concepts. These words are called translation equivalents, and translation equivalents that also sound similar (e.g., banana-banane) are called cognates. Research has consistently shown that children and adults process cognates more easily than non-cognates. The present study explored if there is such an advantage for cognate production in bilingual’s early vocabulary development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The development of gaze following in monolingual and bilingual infants: A multi-laboratory study</title>
+      <link>https://rachelkytsui.github.io/publication/journal-article_gaze_following/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/publication/journal-article_gaze_following/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are translation equivalents special?</title>
+      <link>https://rachelkytsui.github.io/project/te-project/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/project/te-project/</guid>
+      <description>&lt;p&gt;The acquisition of translation equivalents is often considered a special component of bilingual children’s vocabulary development, as bilinguals have to learn words that share the same meaning across their two languages. This study examined three contrasting accounts for bilingual children’s acquisition of translation equivalents relative to words that are first labels for a referent: the Avoidance Account whereby translation equivalents are harder to learn, the Preference Account whereby translation equivalents are easier to learn, and the Neutral Account whereby translation equivalents are similar to learn. To adjudicate between these accounts, we put forward a computational model — the Bilingual Vocabulary Model — which proposes that the number of translation equivalents bilingual children produce is a function of vocabulary learning in each language, in the context of the number of potentially learnable words given the children’s developmental level.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

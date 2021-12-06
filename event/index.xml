@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Rachel K.Y. Tsui</title>
+    <link>https://rachelkytsui.github.io/event/</link>
+      <atom:link href="https://rachelkytsui.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rachel K.Y. Tsui 2021</copyright><lastBuildDate>Sat, 06 Nov 2021 19:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rachelkytsui.github.io/media/icon_hu3eb99e71df139e91bc2d45017a9272e6_43250_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://rachelkytsui.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Translation equivalents aren&#39;t special in bilingual vocabulary development: A quantitative model</title>
+      <link>https://rachelkytsui.github.io/talk/translation-equivalents-arent-special-in-bilingual-vocabulary-development-a-quantitative-model/</link>
+      <pubDate>Sat, 06 Nov 2021 19:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/talk/translation-equivalents-arent-special-in-bilingual-vocabulary-development-a-quantitative-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilingual infants learn cognates more rapidly than non-cognates</title>
+      <link>https://rachelkytsui.github.io/talk/bilingual-infants-learn-cognates-more-rapidly-than-non-cognates/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/talk/bilingual-infants-learn-cognates-more-rapidly-than-non-cognates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-lab study of gaze-following development in monolingual and bilingual infants </title>
+      <link>https://rachelkytsui.github.io/talk/a-multi-lab-study-of-gaze-following-development-in-monolingual-and-bilingual-infants/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/talk/a-multi-lab-study-of-gaze-following-development-in-monolingual-and-bilingual-infants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

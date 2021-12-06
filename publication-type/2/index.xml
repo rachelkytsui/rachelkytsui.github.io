@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Rachel K.Y. Tsui</title>
+    <link>https://rachelkytsui.github.io/publication-type/2/</link>
+      <atom:link href="https://rachelkytsui.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rachel K.Y. Tsui 2021</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rachelkytsui.github.io/media/icon_hu3eb99e71df139e91bc2d45017a9272e6_43250_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://rachelkytsui.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The development of gaze following in monolingual and bilingual infants: A multi-laboratory study</title>
+      <link>https://rachelkytsui.github.io/publication/journal-article_gaze_following/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/publication/journal-article_gaze_following/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of language dominance on phonetic transfer in Cantonese–English bilingual language switching</title>
+      <link>https://rachelkytsui.github.io/publication/journal-article_languagedominance_switching/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rachelkytsui.github.io/publication/journal-article_languagedominance_switching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
